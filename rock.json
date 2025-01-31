@@ -1,0 +1,10 @@
+{
+  "name": "Spooky",
+  "mood": "Tired",
+  "hunger": 6,
+  "boredom": 1,
+  "energy": 0,
+  "canFeed": true,
+  "canPlay": false,
+  "zeroEnergyTurns": 1
+}
